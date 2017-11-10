@@ -11,7 +11,7 @@ var Nav = ()=> {
                         <IndexLink to="/" activeClassName="activeLink">Timer</IndexLink>
                     </li>
                     <li>
-                        <Link to="/" activeClassName="activeLink">Countdown</Link>
+                        <Link to="/countdown" activeClassName="activeLink">Countdown</Link>
                     </li>
                 </ul>
             </div>

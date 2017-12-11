@@ -2,9 +2,11 @@ import React from 'react'
 
 class Timer extends React.Component{
     render(){
-        <div>
-            <p>Timer.jsx</p>
-        </div>
+        return(
+            <div>
+                <p>Timer.jsx</p>
+            </div>
+        )
     }
 }
 
